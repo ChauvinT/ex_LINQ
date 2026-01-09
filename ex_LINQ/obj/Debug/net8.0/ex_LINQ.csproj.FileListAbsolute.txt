@@ -12,3 +12,4 @@ C:\MySigma\tchauvin\OneDrive - SIGMA Informatique\Documents\FORTIL\FormationCsha
 C:\MySigma\tchauvin\OneDrive - SIGMA Informatique\Documents\FORTIL\FormationCsharp\ex_LINQ\ex_LINQ\obj\Debug\net8.0\ex_LINQ.pdb
 C:\MySigma\tchauvin\OneDrive - SIGMA Informatique\Documents\FORTIL\FormationCsharp\ex_LINQ\ex_LINQ\obj\Debug\net8.0\ex_LINQ.genruntimeconfig.cache
 C:\MySigma\tchauvin\OneDrive - SIGMA Informatique\Documents\FORTIL\FormationCsharp\ex_LINQ\ex_LINQ\obj\Debug\net8.0\ref\ex_LINQ.dll
+C:\MySigma\tchauvin\OneDrive - SIGMA Informatique\Documents\FORTIL\FormationCsharp\ex_LINQ\ex_LINQ\obj\Debug\net8.0\ex_LINQ.sourcelink.json

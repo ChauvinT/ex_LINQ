@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{C7F6FCBB-080F-4348-8251-6677E7516E42}|ex_LINQ\\ex_LINQ.csproj|c:\\mysigma\\tchauvin\\onedrive - sigma informatique\\documents\\fortil\\formationcsharp\\ex_linq\\ex_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7F6FCBB-080F-4348-8251-6677E7516E42}|ex_LINQ\\ex_LINQ.csproj|solutionrelative:ex_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F6FCBB-080F-4348-8251-6677E7516E42}|ex_LINQ\\ex_LINQ.csproj|c:\\mysigma\\tchauvin\\onedrive - sigma informatique\\documents\\fortil\\formationcsharp\\ex_linq\\ex_linq\\chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F6FCBB-080F-4348-8251-6677E7516E42}|ex_LINQ\\ex_LINQ.csproj|solutionrelative:ex_linq\\chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F6FCBB-080F-4348-8251-6677E7516E42}|ex_LINQ\\ex_LINQ.csproj|c:\\mysigma\\tchauvin\\onedrive - sigma informatique\\documents\\fortil\\formationcsharp\\ex_linq\\ex_linq\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F6FCBB-080F-4348-8251-6677E7516E42}|ex_LINQ\\ex_LINQ.csproj|solutionrelative:ex_linq\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F6FCBB-080F-4348-8251-6677E7516E42}|ex_LINQ\\ex_LINQ.csproj|c:\\mysigma\\tchauvin\\onedrive - sigma informatique\\documents\\fortil\\formationcsharp\\ex_linq\\ex_linq\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F6FCBB-080F-4348-8251-6677E7516E42}|ex_LINQ\\ex_LINQ.csproj|solutionrelative:ex_linq\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chien.cs",
+              "DocumentMoniker": "C:\\MySigma\\tchauvin\\OneDrive - SIGMA Informatique\\Documents\\FORTIL\\FormationCsharp\\ex_LINQ\\ex_LINQ\\Chien.cs",
+              "RelativeDocumentMoniker": "ex_LINQ\\Chien.cs",
+              "ToolTip": "C:\\MySigma\\tchauvin\\OneDrive - SIGMA Informatique\\Documents\\FORTIL\\FormationCsharp\\ex_LINQ\\ex_LINQ\\Chien.cs",
+              "RelativeToolTip": "ex_LINQ\\Chien.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T14:22:09.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\MySigma\\tchauvin\\OneDrive - SIGMA Informatique\\Documents\\FORTIL\\FormationCsharp\\ex_LINQ\\ex_LINQ\\Personne.cs",
+              "RelativeDocumentMoniker": "ex_LINQ\\Personne.cs",
+              "ToolTip": "C:\\MySigma\\tchauvin\\OneDrive - SIGMA Informatique\\Documents\\FORTIL\\FormationCsharp\\ex_LINQ\\ex_LINQ\\Personne.cs",
+              "RelativeToolTip": "ex_LINQ\\Personne.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T09:40:48.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\MySigma\\tchauvin\\OneDrive - SIGMA Informatique\\Documents\\FORTIL\\FormationCsharp\\ex_LINQ\\ex_LINQ\\Dog.cs",
+              "RelativeDocumentMoniker": "ex_LINQ\\Dog.cs",
+              "ToolTip": "C:\\MySigma\\tchauvin\\OneDrive - SIGMA Informatique\\Documents\\FORTIL\\FormationCsharp\\ex_LINQ\\ex_LINQ\\Dog.cs",
+              "RelativeToolTip": "ex_LINQ\\Dog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T09:20:07.753Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "ex_LINQ\\Program.cs",
               "ToolTip": "C:\\MySigma\\tchauvin\\OneDrive - SIGMA Informatique\\Documents\\FORTIL\\FormationCsharp\\ex_LINQ\\ex_LINQ\\Program.cs",
               "RelativeToolTip": "ex_LINQ\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAkwEYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAALQBAAAAAAAAAAAnwPkBAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T13:52:09.383Z",
               "EditorCaption": ""
